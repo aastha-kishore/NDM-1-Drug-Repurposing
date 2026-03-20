@@ -1,0 +1,9 @@
+Date: Tue 27 Jan 2026 18:35:57 
+Ligand: [NH3+]CCNCCNCC[NH3+]
+Method: AC
+Target: 6KZLclean.pdb
+Sampling exhaustivity: 90
+Cavity prioritization: 70
+Random Initial Conditions: 1
+Box size: 20 20 20
+Box center: -15.0 -17.0 -12.0
